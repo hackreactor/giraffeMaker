@@ -37,7 +37,7 @@ This repo contains code which presents a working representation of this Giraffe 
 The Code Structure
 -----
 
-In the repo you will find many examples of code which will have the same functionality, however the methods of instantiating Classes and creating new Objects will be different in each piece of code. All the giraffe makers will need to create new objects, assign the name and height properties of each giraffe, and share the two communal methods, eat and greet. There are seven different versions of the giraffeMaker, each with slightly different methods of Class instantiation.
+In the repo you will find many examples of code which will have the same functionality. However, the methods of instantiating Classes and creating new Objects will be different in each piece of code. All the giraffe makers will need to create new objects, assign the name and height properties of each giraffe, and share the two communal methods, eat and greet. There are seven different versions of the giraffeMaker, each with slightly different methods of Class instantiation.
 
 ###giraffeMaker
 
